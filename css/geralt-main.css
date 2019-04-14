@@ -1,0 +1,79 @@
+html {
+  background-color: #000;
+  max-width: 1000px;
+  max-height: 900px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+body {
+  color: #fff;
+  font-family: "Baskerville Old Face", Times, serif;
+}
+
+span {
+  font-size: 110%;
+}
+
+.list {
+  text-align: left;
+  font-style: italic;
+}
+
+#resumen, #historia, #aliados, #enemigos, #amor, #galeria {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  position: left;
+}
+
+#geralt {
+  color: #d1d3d3;
+  font-size: 70px;
+  text-shadow: 5px 5px 6px #808080;
+  text-decoration: underline overline;
+  text-decoration-style: double;
+}
+
+#pichead {
+  width: 245px;
+  height: 255px;
+  padding: 5px;
+  border: 2px ridge #808080;
+  text-align: left;
+  padding-bottom: 6px;
+  margin: 4px ;
+}
+
+#worldgross {
+  margin-top: 0;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 0 auto;
+  font-family: "Georgia";
+  opacity: 0.5;
+}
+
+#firstline {
+  font-size: 34px;
+}
+
+#intro-color {
+  color: #888;
+}
+
+a:link {
+  color: #808080;
+}
+
+a:visited {
+  color: #808080;
+}
+
+a:hover {
+  color: #808080;
+}
+
+a:active {
+  color: rgb(235, 234, 235);
+}
